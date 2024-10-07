@@ -4,7 +4,7 @@ export const SUPPORTED_CHAIN_ID = 84532;
 
 const polygonamoy = {
   chainId: 84532,
-  name: "Polygon Amoy Testnet",
+  name: "PBase sepolia",
   currency: "sepolia",
   explorerUrl: "https://sepolia.basescan.org/",
   rpcUrl: import.meta.env.VITE_RPC_URL,
