@@ -23,14 +23,14 @@ Many major subscription services lack crypto payment options, and employers seek
 
 Strimz enables subscription services like Netflix to integrate their modules onto our platform, allowing users to subscribe to services and automate payments seamlessly.
 
-![startsubscription](https://github.com/Signor1/token-stream/assets/107637548/25beb888-9450-45cc-9e55-7446d7c37ff6)
+![subscription](https://github.com/user-attachments/assets/125ef6ae-b332-4f87-97e4-d6a0bd130fb8)
 
 
 ### Salary Streaming
 
 With Strimz, employers can streamline salary payments by uploading a CSV with employee addresses and amounts, choosing the payment interval, and initiating automatic salary payments effortlessly.
 
-![uploadcsv](https://github.com/Signor1/token-stream/assets/107637548/c20d4920-edcf-4780-8701-2195adfd288a)
+![Salary](https://github.com/user-attachments/assets/f87d39da-d121-4721-9e62-3a1de481cf25)
 
 
 ## Business Logic
