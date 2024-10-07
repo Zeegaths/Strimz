@@ -2,9 +2,10 @@
 
 ## Overview
 
-Strimz is a token streaming platform designed for easy continuous transactions through automation. Our goal is to simplify continuous transactions over user-defined intervals, automating financial activities such as salaries and subscriptions without manual intervention.
+Strimz is a token streaming platform designed for easy continuous transactions through automation. Our goal is to simplify continuous transactions over user-defined intervals, automating financial activities such as salaries and subscriptions without manual int
+ervention.
 
-![services](https://github.com/Signor1/token-stream/assets/107637548/ca8962cd-7861-4190-84c4-6d33d7ba152e)
+![homepage](https://github.com/user-attachments/assets/f8acdb9b-90c9-416b-ba4f-575eb10b9eba)
 
 Built on the Polygon Amoy blockchain, Strimz leverages Chainlink automation to enhance efficiency and reliability in DeFi applications. 
 
