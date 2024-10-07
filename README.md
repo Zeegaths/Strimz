@@ -2,9 +2,10 @@
 
 ## Overview
 
-Strimz is a token streaming platform designed for easy continuous transactions through automation. Our goal is to simplify continuous transactions over user-defined intervals, automating financial activities such as salaries and subscriptions without manual intervention.
+Strimz is a token streaming platform designed for easy continuous transactions through automation. Our goal is to simplify continuous transactions over user-defined intervals, automating financial activities such as salaries and subscriptions without manual int
+ervention.
 
-![services](https://github.com/Signor1/token-stream/assets/107637548/ca8962cd-7861-4190-84c4-6d33d7ba152e)
+![homepage](https://github.com/user-attachments/assets/f8acdb9b-90c9-416b-ba4f-575eb10b9eba)
 
 Built on the Polygon Amoy blockchain, Strimz leverages Chainlink automation to enhance efficiency and reliability in DeFi applications. 
 
@@ -22,14 +23,14 @@ Many major subscription services lack crypto payment options, and employers seek
 
 Strimz enables subscription services like Netflix to integrate their modules onto our platform, allowing users to subscribe to services and automate payments seamlessly.
 
-![startsubscription](https://github.com/Signor1/token-stream/assets/107637548/25beb888-9450-45cc-9e55-7446d7c37ff6)
+![subscription](https://github.com/user-attachments/assets/125ef6ae-b332-4f87-97e4-d6a0bd130fb8)
 
 
 ### Salary Streaming
 
 With Strimz, employers can streamline salary payments by uploading a CSV with employee addresses and amounts, choosing the payment interval, and initiating automatic salary payments effortlessly.
 
-![uploadcsv](https://github.com/Signor1/token-stream/assets/107637548/c20d4920-edcf-4780-8701-2195adfd288a)
+![Salary](https://github.com/user-attachments/assets/f87d39da-d121-4721-9e62-3a1de481cf25)
 
 
 ## Business Logic
