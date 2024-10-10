@@ -4,7 +4,7 @@ pragma solidity ^0.8.13;
 import {Script, console} from "forge-std/Script.sol";
 import "../src/OpToken.sol";
 
-contract TokenSript is Script {
+contract TokenScript is Script {
     function setUp() public {}
 
     function run() public {
@@ -16,10 +16,10 @@ contract TokenSript is Script {
 
         OpToken token = new OpToken(1_000_000_000);
 
-        // token.transfer();
+        token.transfer(0x80a37e3caEf4Bd668Cdc87d53A62a85E66baD6D7, 10000);
 
         vm.stopBroadcast();
     }
 }
 
-//0xCb5Df1bE4212440b0C92318A30acB908a424aF64
+//0x966CC3E353a035a230fe4Bfb43C821c68683EBDF
